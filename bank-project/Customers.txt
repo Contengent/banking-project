@@ -1,0 +1,16 @@
+586410;Anna;31;Sydney
+586411;Anthony;34;Brisbane
+586412;Bruce;37;Melbourne
+586413;Diana;21;Perth
+586414;Frank;25;Hobart
+586415;Kate;29;Canberra
+586416;Mark;24;Newcastle
+586417;Matthew;27;Wollongong
+586418;Michael;30;Cairns
+586419;Natasha;35;Geelong
+586420;Paul;38;Sydney
+586421;Peter;41;Brisbane
+586422;Robert;26;Melbourne
+586423;Sarah;31;Perth
+586424;Stephanie;36;Canberra
+586425;Tony;41;Hobart

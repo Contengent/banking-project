@@ -1,0 +1,18 @@
+Checking Account Transactions:
+accNo: 135790, accType: Checking, bal: 400.0, minAmt: 50.0, branchNo: 1246
+accNo: 135791, accType: Checking, bal: 550.0, minAmt: 50.0, branchNo: 1246
+accNo: 135792, accType: Checking, bal: 750.0, minAmt: 50.0, branchNo: 1246
+accNo: 135793, accType: Checking, bal: 900.0, minAmt: 50.0, branchNo: 1246
+accNo: 135794, accType: Checking, bal: 1050.0, minAmt: 50.0, branchNo: 1246
+accNo: 135795, accType: Checking, bal: 1250.0, minAmt: 50.0, branchNo: 1246
+accNo: 135796, accType: Checking, bal: 1000.0, minAmt: 50.0, branchNo: 1246
+accNo: 135797, accType: Checking, bal: 1200.0, minAmt: 50.0, branchNo: 1246
+Saving Account Transactions:
+accNo: 246800, accType: Saving, bal: 650.0, MaxAmt: 500.0
+accNo: 246801, accType: Saving, bal: 850.0, MaxAmt: 500.0
+accNo: 246802, accType: Saving, bal: 1000.0, MaxAmt: 500.0
+accNo: 246803, accType: Saving, bal: 500.0, MaxAmt: 500.0
+accNo: 246804, accType: Saving, bal: 2150.0, MaxAmt: 500.0
+accNo: 246805, accType: Saving, bal: 1550.0, MaxAmt: 500.0
+accNo: 246806, accType: Saving, bal: 1100.0, MaxAmt: 500.0
+accNo: 246807, accType: Saving, bal: 1450.0, MaxAmt: 500.0
